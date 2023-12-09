@@ -1,6 +1,6 @@
 Just a simple multi-digest checksum program in C using the EVP library from OpenSSL
 
-Usage: checksum filename
+Usage: checksums filename
 
 Covers the following digests:
 
